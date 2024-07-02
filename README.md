@@ -1,4 +1,5 @@
 SIGN LANGUAGE DETECTION USING CONVOLUTIONAL NEURAL NETWORKS (DEEP LEARNING PROJECT)
+
 This is a sign language detection model using CNN( Convolution Neural Network - Deep Learning neural network architecture) in Python and Tensorflow.
 In this, Google Colab is used to train the CNN model. The final detection in real time is done in VS code IDE with the Webcm to capture image.
 
